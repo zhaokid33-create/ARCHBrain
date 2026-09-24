@@ -2,7 +2,7 @@
 
 **个人外置知识库系统**，用于建筑设计研究、AI 辅助工作流、知识积累与检索。
 
-由 [kid](https://github.com/zhaokid33-create) 开发，服务于重庆城市更新毕业设计项目（基于黏菌/扩散算法）。
+由 [kid](https://github.com/zhaokid33-create) 开发，服务于建筑设计工作流程
 
 ---
 
@@ -241,8 +241,8 @@ python brain-wakeup.py search "黏菌 扩散"
 
 ## 👤 作者
 
-**kid** - 建筑学专业 2026 届毕业生  
-研究方向：城市更新 + 仿生算法（黏菌/扩散模型）+ AI 辅助设计
+**kid** 
+研究方向：城市更新 + 仿生算法+ AI 辅助设计
 
 GitHub: [@zhaokid33-create](https://github.com/zhaokid33-create)
 
