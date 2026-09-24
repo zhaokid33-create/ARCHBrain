@@ -1,0 +1,4 @@
+wing: brain_wiki
+rooms:
+- name: raw
+  description: Raw input materials - articles, notes, links, media

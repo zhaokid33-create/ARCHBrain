@@ -1,0 +1,8 @@
+wing: brain_wiki
+rooms:
+- name: topics
+  description: Structured wiki topics in the shared external brain knowledge base
+- name: glossary
+  description: Terms and concepts glossary for the external brain
+- name: links
+  description: Curated resource links and references

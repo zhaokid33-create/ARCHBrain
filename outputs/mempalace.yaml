@@ -1,0 +1,4 @@
+wing: brain_wiki
+rooms:
+- name: outputs
+  description: Generated outputs - QA, summaries, project records

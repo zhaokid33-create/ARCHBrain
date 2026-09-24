@@ -1,0 +1,66 @@
+{
+  "items": [
+    {
+      "type": "url",
+      "ctime": 1776183866845,
+      "url": "https://www.pinterest.com/",
+      "title": "(47) Pinterest"
+    },
+    {
+      "type": "graph",
+      "ctime": 1776186899523,
+      "title": "未命名图谱",
+      "options": {
+        "collapse-filter": true,
+        "search": "",
+        "showTags": false,
+        "showAttachments": false,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": false,
+        "colorGroups": [
+          {
+            "query": "path:wiki/topics/architecture  ",
+            "color": {
+              "a": 1,
+              "rgb": 6074838
+            }
+          },
+          {
+            "query": "path:wiki/topics/system  ",
+            "color": {
+              "a": 1,
+              "rgb": 6608476
+            }
+          },
+          {
+            "query": "path:raw  ",
+            "color": {
+              "a": 1,
+              "rgb": 15198762
+            }
+          },
+          {
+            "query": "path:outputs  ",
+            "color": {
+              "a": 1,
+              "rgb": 14048348
+            }
+          }
+        ],
+        "collapse-display": true,
+        "showArrow": false,
+        "textFadeMultiplier": 0,
+        "nodeSizeMultiplier": 1,
+        "lineSizeMultiplier": 1,
+        "collapse-forces": true,
+        "centerStrength": 0.518713248970312,
+        "repelStrength": 10,
+        "linkStrength": 1,
+        "linkDistance": 250,
+        "scale": 0.7132754626224306,
+        "close": true
+      }
+    }
+  ]
+}

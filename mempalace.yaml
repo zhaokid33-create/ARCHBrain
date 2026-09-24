@@ -1,0 +1,8 @@
+wing: brain_wiki
+rooms:
+- name: wiki
+  description: Curated knowledge wiki - topics, glossary, building types, design methods
+- name: raw
+  description: Raw input materials - articles, notes, links, media
+- name: outputs
+  description: Generated outputs - QA, summaries, project records

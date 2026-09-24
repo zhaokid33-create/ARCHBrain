@@ -1,0 +1,7 @@
+{
+  "openExternalURLs": true,
+  "enableAdblocking": true,
+  "markdownPath": "raw/links",
+  "searchEngine": "google",
+  "homepage": "https://www.google.com"
+}
